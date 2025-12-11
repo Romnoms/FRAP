@@ -1,0 +1,14 @@
+# Claude-related files
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large temporary files
+*.tmp
