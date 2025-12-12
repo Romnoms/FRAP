@@ -1,0 +1,13 @@
+Metric,Value
+Pre_Bleach_ROI_Mean,21.8219
+Pre_Bleach_ROI_Std,13.8490
+Pre_Bleach_ROI_Min,3.0000
+Pre_Bleach_ROI_Max,70.0000
+Pre_Reference_Mean,6.7373
+Pre_Reference_Std,8.7364
+Pre_Background_Mean,0.0000
+Bleach_ROI_Pixels,1112
+Reference_ROI_Pixels,206151
+Background_ROI_Pixels,53844
+Time_Interval_s,0.717875
+N_Post_Bleach_Frames,5

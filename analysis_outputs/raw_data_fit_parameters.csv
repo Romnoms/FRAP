@@ -1,0 +1,3 @@
+Sample,Model,Mobile_Fraction,Immobile_Fraction,Tau_s,Half_Time_s,R_Squared,AIC
+100uM OA,Single_Exponential,0.556420,0.443580,0.867452,0.601272,0.999772,-54.2025
+SCDi,Single_Exponential,0.544653,0.455347,1.884377,1.306150,0.996227,-87.9291
