@@ -1,5 +1,5 @@
 # Panel B: Recovery Curves
-Time_s,100uM_OA_Normalized,100uM_OA_Fitted,SCDi_Normalized,SCDi_Fitted
+Time_s,100uM_OA_+_SCDi_Normalized,100uM_OA_+_SCDi_Fitted,SCDi_Normalized,SCDi_Fitted
 0.0000,0.0000,0.0000,0.0000,0.0000
 0.7168,0.3127,0.3132,0.1828,0.1723
 1.4337,0.4531,0.4501,0.2951,0.2901
@@ -10,8 +10,3 @@ Time_s,100uM_OA_Normalized,100uM_OA_Fitted,SCDi_Normalized,SCDi_Fitted
 5.0179,,,0.4859,0.5067
 5.7348,,,0.5210,0.5187
 6.4516,,,0.5433,0.5269
-
-# Panels C & D: Bar Charts
-Sample,Mobile_Fraction_%,Immobile_Fraction_%,Half_Time_s
-100uM OA,55.64,44.36,0.6013
-SCDi,54.47,45.53,1.3062

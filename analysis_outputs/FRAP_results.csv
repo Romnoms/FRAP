@@ -1,3 +1,3 @@
 Sample,Mobile_Fraction_%,Immobile_Fraction_%,Tau_s,Half_Time_s,R_squared
-100uM_OA,53.02,46.98,0.681,0.472,0.9985
-SCDi,57.17,42.83,1.796,1.245,0.9967
+100 µM OA + SCDi,55.64,44.36,0.867,0.601,0.9998
+SCDi,54.47,45.53,1.884,1.306,0.9962
